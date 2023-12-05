@@ -1,2 +1,1 @@
-# CountDownOfWords
-I have created a real time countdown words using HTML, CSS and JAVASCRIPT.
+📊 Explore Adithya Salian's CountDownOfWords project, a clever implementation using HTML, CSS, and JavaScript! Visit: https://adithyasalian23.github.io/CountDownOfWords/ 🚀 #WebDevelopment #CodeInAction
